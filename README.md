@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DifferentLee
-- 👀 I’m interested in Water Supply and Drainage Engineering.
-- 🌱 I’m currently learning PHP/C/C++/Python/Java/JSP/Mysql/HTML.
+- 👀 I’m interested in BigData.
+- 🌱 I’m currently learning PHP/C/C++/Python/Java/ML/LLM
 - 💞️ I’m looking to collaborate on everything, bro.
 - 📫 Remember me, buddy.
 
